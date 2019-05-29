@@ -1,4 +1,4 @@
-package com.example.currencyconversionservice.models;
+package com.example.currencyconversionservice.controller;
 import java.math.BigDecimal;
 
 public class CurrencyCoonversionBean {
